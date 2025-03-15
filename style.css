@@ -140,6 +140,7 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 24px 0; 
+    text-align: center;
   }
 
   header a {
